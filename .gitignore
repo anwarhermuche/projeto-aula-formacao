@@ -1,0 +1,49 @@
+# Superpowers / Claude / Agents
+.agents/
+.claude/
+.superpowers/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Node
+node_modules/
+.npm/
+.yarn/
+dist/
+.next/
+.nuxt/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Secrets / keys
+*.pem
+*.key
+*.cert
+secrets/
