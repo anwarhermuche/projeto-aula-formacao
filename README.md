@@ -64,6 +64,9 @@ Cria o admin padrão:
 - **Email:** `admin@salescoach.com`
 - **Senha:** `admin123`
 
+
+aiufsaiyfviayvsfiyaviyf
+
 ### 6. Iniciar o servidor de desenvolvimento
 
 ```bash
